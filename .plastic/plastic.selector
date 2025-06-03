@@ -1,0 +1,4 @@
+repository "timelinegoku@sibea@cloud"
+  path "/"
+    br "/main"
+    co "/main"
